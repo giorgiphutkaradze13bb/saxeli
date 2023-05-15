@@ -1,0 +1,23 @@
+ul.nav{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
+.nav li{
+    float: left;
+}
+ul.nav a{
+    display: block;
+    width: 7em;
+    padding: 10px;
+    margin: 0 spx;
+    background-color: green;
+    border: 1px darkslategray;
+    text-decoration: none;
+    color: deeppink;
+    text-align: center;
+}
+ul.nav a:hover{
+    background-color: green;
+    color: aqua;
+}
